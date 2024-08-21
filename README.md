@@ -42,7 +42,7 @@ The generated synthetic data is then used as the dataset for fine-tuning the Phi
 
 Below is a screenshot of the synthetic data generation process:
 
-![Synthetic Data Creation](./path/to/aiml_api_synthetic.png)
+![Synthetic Data Creation](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/aiml_api_synthetic.png)
 
 The artificial data generation process was performed on Google Colab, and you can find the notebook used for this process [here](https://drive.google.com/file/d/1f3bASiMkHUyw64AResO7TW3ixaZYbV5Q/view?usp=sharing).
 
@@ -58,19 +58,19 @@ The fine-tuning process was performed on Google Colab, and you can find the note
 
 Before fine-tuning, the model's accuracy was evaluated on a validation dataset, yielding the following results:
 
-![Accuracy Before Fine-Tuning](./path/to/acc_before_fine_tune.png)
+![Accuracy Before Fine-Tuning](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/acc_before_fine_tune.png)
 
 ### Fine-Tuning Process
 
 The model was fine-tuned over multiple epochs, with training and validation losses recorded as shown below:
 
-![Fine-Tuning Step](./path/to/fine_tuning_step.png)
+![Fine-Tuning Step](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/fine_tuning_step.png)
 
 ### Accuracy After Fine-Tuning
 
 After fine-tuning, the model's accuracy improved significantly, as shown in the following evaluation:
 
-![Accuracy After Fine-Tuning](./path/to/acc_after_fine_tune.png)
+![Accuracy After Fine-Tuning](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/acc_after_fine_tune.png)
 
 ## Step 3: Deploying the Streamlit Application
 
@@ -82,15 +82,15 @@ The following screenshots demonstrate the Streamlit application classifying vari
 
 #### Misleading Text Category
 
-![Misleading Text Category](./path/to/Misleading.png)
+![Misleading Text Category](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/Misleading.png)
 
 #### Positive Text Category
 
-![Positive Text Category](./path/to/Positive.png)
+![Positive Text Category](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/Positive.png)
 
 #### Spam Text Category
 
-![Spam Text Category](./path/to/Spam.png)
+![Spam Text Category](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/Spam.png)
 
 ## Usage of AIML API
 
@@ -150,7 +150,7 @@ This project showcases the complete workflow from generating synthetic data to f
 
 ---
 
-
+## Old readme
 
 Synthetic Data Generation Module:
 
