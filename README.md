@@ -127,13 +127,13 @@ The following categories are detected by the fine-tuned model:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/vikashkodati/nextedge-morpheus
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd yourrepository
+cd nextedge-morpheus
 ```
 
 3. Install the required packages:
@@ -147,7 +147,8 @@ pip install -r requirements.txt
 To run the Streamlit application locally, use the following command:
 
 ```bash
-streamlit run streamlit_app/app.py
+cd streamlit_app
+streamlit run app.py
 ```
 
 This will launch the web application on your local machine, allowing you to enter text and receive real-time category detection results.
