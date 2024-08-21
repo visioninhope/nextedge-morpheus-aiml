@@ -159,7 +159,7 @@ This project showcases the complete workflow from generating synthetic data to f
 
 ---
 
-## Old readme
+<!-- ## Old readme
 
 Synthetic Data Generation Module:
 
@@ -185,3 +185,4 @@ The generated synthetic data is stored in a Pandas DataFrame, which is then save
 Output:
 
 The script prints progress messages to indicate the generation of each sample and confirms when the data is saved to the CSV file.
+ -->
