@@ -157,6 +157,11 @@ This will launch the web application on your local machine, allowing you to ente
 
 This project showcases the complete workflow from generating synthetic data to fine-tuning a model and deploying it on an edge device. The Streamlit application offers a user-friendly interface for real-time text categorization, and the entire setup runs locally without requiring an internet connection.
 
+## References
+
+
+[1] [Fine-tune Phi-3 for sentiment analysis](https://www.kaggle.com/code/lucamassaron/fine-tune-phi-3-for-sentiment-analysis)
+[2] [AIML API Documentation](https://docs.aimlapi.com/)
 
 ---
 
