@@ -84,18 +84,21 @@ The following screenshots demonstrate the Streamlit application classifying vari
 
 ![Misleading Text Category](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/Misleading.png)
 
+##### Play Demo Video
 [![Misleading](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1-DhjDn3mMvp21-N3YjPdr9dNFhFOKnCz)](https://drive.google.com/file/d/1-DhjDn3mMvp21-N3YjPdr9dNFhFOKnCz/view?usp=sharing "Misleading")
 
 #### Positive Text Category
 
 ![Positive Text Category](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/Positive.png)
 
+##### Play Demo Video
 [![Positive](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1-FT3H39Pbv_Oz8J0KdsQAm33BAId5dqU)](https://drive.google.com/file/d/1-FT3H39Pbv_Oz8J0KdsQAm33BAId5dqU/view?usp=sharing "Positive")
 
 #### Spam Text Category
 
 ![Spam Text Category](https://raw.githubusercontent.com/vikashkodati/nextedge-morpheus/main/media/Spam.png)
 
+##### Play Demo Video
 [![Spam](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1s9oH-VKM5nSNoFtVqeKc6amssggTjn6C)](https://drive.google.com/file/d/1s9oH-VKM5nSNoFtVqeKc6amssggTjn6C/view?usp=sharing "Spam")
 
 ## Usage of AIML API
