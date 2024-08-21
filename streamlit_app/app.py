@@ -44,7 +44,7 @@ pipe = build_pipeline()
 st.write("### Enter text to analyze:")
 
 # User input
-user_input = st.text_input("Your text here...")
+user_input = st.text_area("Your text here...")
 
 def generate_test_prompt(text):
     return f"""The category of the following phrase: '{text}' is \n{sentiment_string}\nCannot be determined\n\nSolution: The correct option is""".strip()
