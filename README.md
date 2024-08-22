@@ -141,6 +141,12 @@ cd nextedge-morpheus
 ```bash
 pip install -r requirements.txt
 ```
+If you run into issues, then try the following: 
+- try lowering the python version
+- use virtual python environments
+- try changing the versions of the following towhatever is available on your laptop: tomli, torch==2.2.0, torchaudio==2.2.0, torchvision==0.17.0
+
+
 
 ## Running the Application
 
